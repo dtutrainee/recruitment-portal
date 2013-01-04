@@ -1,0 +1,2 @@
+module SourcingPartnersHelper
+end
